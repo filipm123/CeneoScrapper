@@ -1,6 +1,5 @@
 [
     {
-        "opinion_id": "11899040",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 4.5,
@@ -10,11 +9,11 @@
         "purchased": true,
         "submit_date": "2020-03-13 07:54:24",
         "purchase_date": "2020-03-09 14:41:21",
-        "useful": 1,
-        "useless": 1
+        "useful": 2,
+        "useless": 1,
+        "opinion_id": "11899040"
     },
     {
-        "opinion_id": "8677642",
         "author": "Piotr",
         "recommendation": true,
         "stars": 4.0,
@@ -28,11 +27,11 @@
         "purchased": true,
         "submit_date": "2018-12-05 13:57:15",
         "purchase_date": "2018-11-16 09:32:01",
-        "useful": 4,
-        "useless": 1
+        "useful": 5,
+        "useless": 1,
+        "opinion_id": "8677642"
     },
     {
-        "opinion_id": "10172158",
         "author": "Piotrek",
         "recommendation": true,
         "stars": 5.0,
@@ -48,11 +47,11 @@
         "purchased": true,
         "submit_date": "2019-02-28 14:17:16",
         "purchase_date": "2019-02-11 15:14:49",
-        "useful": 5,
-        "useless": 0
+        "useful": 6,
+        "useless": 0,
+        "opinion_id": "10172158"
     },
     {
-        "opinion_id": "10364646",
         "author": "Kamil W",
         "recommendation": true,
         "stars": 5.0,
@@ -68,11 +67,11 @@
         "purchased": true,
         "submit_date": "2019-04-08 11:01:29",
         "purchase_date": "2019-04-03 13:49:21",
-        "useful": 1,
-        "useless": 0
+        "useful": 2,
+        "useless": 0,
+        "opinion_id": "10364646"
     },
     {
-        "opinion_id": "10379724",
         "author": "homicz",
         "recommendation": true,
         "stars": 4.5,
@@ -92,11 +91,11 @@
         "purchased": true,
         "submit_date": "2019-04-10 21:39:40",
         "purchase_date": "2019-04-07 14:37:07",
-        "useful": 1,
-        "useless": 3
+        "useful": 2,
+        "useless": 3,
+        "opinion_id": "10379724"
     },
     {
-        "opinion_id": "8957187",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -107,10 +106,10 @@
         "submit_date": "2019-01-19 21:11:36",
         "purchase_date": "2018-12-11 16:48:20",
         "useful": 0,
-        "useless": 3
+        "useless": 3,
+        "opinion_id": "8957187"
     },
     {
-        "opinion_id": "8380001",
         "author": "adte2",
         "recommendation": true,
         "stars": 4.5,
@@ -126,11 +125,11 @@
         "purchased": true,
         "submit_date": "2018-09-26 09:32:00",
         "purchase_date": "2018-08-17 08:15:22",
-        "useful": 2,
-        "useless": 0
+        "useful": 3,
+        "useless": 0,
+        "opinion_id": "8380001"
     },
     {
-        "opinion_id": "10694838",
         "author": "kokodżambo",
         "recommendation": true,
         "stars": 4.0,
@@ -143,10 +142,10 @@
         "submit_date": "2019-06-24 12:08:00",
         "purchase_date": "2019-06-11 12:53:26",
         "useful": 2,
-        "useless": 2
+        "useless": 2,
+        "opinion_id": "10694838"
     },
     {
-        "opinion_id": "10351579",
         "author": "Marcin",
         "recommendation": true,
         "stars": 4.5,
@@ -161,14 +160,14 @@
         "submit_date": "2019-04-04 20:30:08",
         "purchase_date": "2019-03-18 21:55:31",
         "useful": 0,
-        "useless": 0
+        "useless": 0,
+        "opinion_id": "10351579"
     },
     {
-        "opinion_id": "10042987",
-        "author": "Jutu",
+        "author": "Patryk",
         "recommendation": true,
-        "stars": 5.0,
-        "content": "Smartwatch nie chce się zaktualizować, pomimo wielokrotnych prób. Nie martwi mnie to, smartwatch używam i spełnia moje oczekiwania. Czekam na kolejną aktulizację m.in. z polskim językiem.",
+        "stars": 4.5,
+        "content": "Mam zegarek od 3 tygodni. Jestem bardzo zadowolony zwłaszcza jeśli chodzi o pulsometr, zarówno w trakcie jazdy na rowerze jak i biegania pokazuje poprawny odczyt. Zegarek jest też bardzo wygodny, szybko się przyzwyczaiłem do spania z nim. Analiza snu fajnie działa gdyż to co on pokazuje tak, tez się czuje (miałem dobry sen i łatwo wstałem to na zegarku widać ponad 2h głębokiego snu innego dnia jak ciężko mi było wstać to aplikacja pokazała zaledwie 1h snu głębokiego). Jedyne do czego mogę się przyczepić to krokomierz ale to podobno się zepsuło z aktualizacją (wersja 2.3.4.0) mam nadzieję, że w następnej to naprawią i będzie miodzio. Jeszcze częstotliwość próbkowani gps mogla by być większa (podczas jazdy na rowerze licznik rowerowy pokazał 60km, endomondo na telefonie 59,3km a stratos 59km. Wydaje mi się, że jest to wynikiem zbyt rzadkiego próbkowania przez co na mapie widać takie kreski przy zakrętach). Bardzo polecam osobą aktywnym :)",
         "pros": [
             "bateria",
             "jakość",
@@ -177,11 +176,14 @@
             "trwałość",
             "wygoda"
         ],
-        "cons": [],
-        "purchased": true,
-        "submit_date": "2019-02-04 21:53:24",
-        "purchase_date": "2019-01-25 21:55:33",
-        "useful": 1,
-        "useless": 0
+        "cons": [
+            "krokomierz"
+        ],
+        "purchased": false,
+        "submit_date": "2018-08-11 12:28:59",
+        "purchase_date": null,
+        "useful": 8,
+        "useless": 0,
+        "opinion_id": "8238674"
     }
 ]
